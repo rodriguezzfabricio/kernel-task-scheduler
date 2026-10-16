@@ -1,0 +1,11 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.swp
+modules.order
+user_space/main
+user_space/task
+tests/kernel_tests
+tests/user_tests
